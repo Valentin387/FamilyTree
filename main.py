@@ -1,3 +1,5 @@
+import uuid
+
 class TreeNode:
     def __init__(self,data):
         self.data = data
@@ -50,6 +52,7 @@ if __name__ == "__main__":
     root=treeBuilder()
     root.printTree()
 
+    print(type(str(uuid.uuid1())))
 
     print("\n\n END OF LINE")
 
