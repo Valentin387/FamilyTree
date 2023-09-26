@@ -3,3 +3,7 @@ frutas
 banana
 manzana
 pera
+
+generación 02
+sandía
+melocotón
