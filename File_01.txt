@@ -3,3 +3,8 @@ animales
 tigre
 pingüino
 alacrán
+
+generación 02
+ballena
+delfín
+oso
