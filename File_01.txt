@@ -4,3 +4,9 @@ tigre
 pingüino
 alacrán
 zorro
+
+generación 02
+ballena
+delfín
+oso
+animales nuevos
