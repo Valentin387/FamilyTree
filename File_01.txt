@@ -1,11 +1,1 @@
-Código de Valentín
-animales
-tigre
-pingüino
-alacrán
-
-generación 02
-ballena
-delfín
-oso
-animales nuevos
+hecho en main
