@@ -3,3 +3,10 @@ frutas
 banana
 manzana
 pera
+
+generación 02
+sandía
+melocotón
+
+sprint01
+sigo usando feature/animals
