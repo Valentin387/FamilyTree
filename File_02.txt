@@ -10,3 +10,7 @@ melocotón
 
 sprint01
 sigo usando feature/animals
+
+Este código está en main
+
+este código fue hecho en animals
