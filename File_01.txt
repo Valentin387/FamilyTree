@@ -4,3 +4,6 @@ trabajo en backend
 trabajo en back/b1
 
 trabajo en front/f1
+
+14 octubre 2023
+cambio en rama frontend
