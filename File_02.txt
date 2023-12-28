@@ -6,3 +6,5 @@ ff
 
 awesome function
 change in A
+
+work in B
