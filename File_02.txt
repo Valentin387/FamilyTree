@@ -8,3 +8,5 @@ awesome function
 change in A
 
 work in B
+
+le travail de Bastien
